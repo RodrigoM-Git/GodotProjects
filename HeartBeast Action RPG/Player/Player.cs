@@ -10,12 +10,14 @@ public class Player : KinematicBody2D
     
     // variables
     private Vector2 velocity = Vector2.Zero;
-    private AnimationPlayer animationPlayer = null;
+    private AnimationTree animationTree;
+    private AnimationNodeStateMachinePlayback animationState;
     
     // runs on load
     public override void _Ready()
     {
-        animationPlayer = GetNode<AnimationPlayer>("AnimationPlayer");
+        animationTree = GetNode<AnimationTree>("AnimationTree");
+        animationState = (AnimationNodeStateMachinePlayback) animationTree.Get("parameters/playback");
     }
 
     // runs every frame
@@ -35,19 +37,18 @@ public class Player : KinematicBody2D
         if (inputVector != Vector2.Zero)
         {
             // running animation
-            if(inputVector.x > 0)
-                animationPlayer.Play("RunRight");
-            else
-                animationPlayer.Play("RunLeft");
-            
+            animationTree.Set("parameters/Idle/blend_position", inputVector);
+            animationTree.Set("parameters/Run/blend_position", inputVector);
+            animationState.Travel("Run");
             velocity = velocity.MoveToward(inputVector * MAX_SPEED, ACCELERATION * delta);
         }
         else
         {
-            // stop moving and run idle animation
-            animationPlayer.Play("IdleRight"); 
+            animationState.Travel("Idle");
             velocity = velocity.MoveToward(Vector2.Zero, FRICTION * delta);
         }
+            
+        
             
 
         velocity = MoveAndSlide(velocity);

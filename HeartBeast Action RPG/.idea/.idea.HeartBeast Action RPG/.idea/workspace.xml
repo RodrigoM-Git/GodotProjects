@@ -35,10 +35,8 @@
       <change beforePath="$PROJECT_DIR$/.mono/metadata/scripts_metadata.editor_player" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/metadata/scripts_metadata.editor_player" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Debug/HeartBeast Action RPG.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/bin/Debug/HeartBeast Action RPG.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Debug/HeartBeast Action RPG.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/bin/Debug/HeartBeast Action RPG.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Debug/HeartBeast Action RPG.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Debug/HeartBeast Action RPG.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Debug/HeartBeast Action RPG.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Debug/HeartBeast Action RPG.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Debug/HeartBeast Action RPG.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Debug/HeartBeast Action RPG.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Player/Player.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Player/Player.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Player/Player.tscn" afterDir="false" />
     </list>
@@ -113,7 +111,7 @@
       <updated>1603173285750</updated>
       <workItem from="1603173303432" duration="403000" />
       <workItem from="1603174662339" duration="1574000" />
-      <workItem from="1603197547631" duration="651000" />
+      <workItem from="1603197547631" duration="2011000" />
     </task>
     <task id="LOCAL-00001" summary="Completed episode 3">
       <created>1603176464535</created>
