@@ -28,7 +28,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="727c8ab2-9663-475f-bc04-796580bbe1c9" name="Default Changelist" comment="Completed episode 3" />
+    <list default="true" id="727c8ab2-9663-475f-bc04-796580bbe1c9" name="Default Changelist" comment="Completed episode 3">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HeartBeast Action RPG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HeartBeast Action RPG/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/metadata/ide_messaging_meta.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/metadata/ide_messaging_meta.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/metadata/scripts_metadata.editor" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/metadata/scripts_metadata.editor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/metadata/scripts_metadata.editor_player" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/metadata/scripts_metadata.editor_player" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Debug/HeartBeast Action RPG.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/bin/Debug/HeartBeast Action RPG.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Debug/HeartBeast Action RPG.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/bin/Debug/HeartBeast Action RPG.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Debug/HeartBeast Action RPG.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Debug/HeartBeast Action RPG.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Debug/HeartBeast Action RPG.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Debug/HeartBeast Action RPG.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Debug/HeartBeast Action RPG.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Debug/HeartBeast Action RPG.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Player/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/Player.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Player/Player.tscn" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,6 +113,7 @@
       <updated>1603173285750</updated>
       <workItem from="1603173303432" duration="403000" />
       <workItem from="1603174662339" duration="1574000" />
+      <workItem from="1603197547631" duration="651000" />
     </task>
     <task id="LOCAL-00001" summary="Completed episode 3">
       <created>1603176464535</created>
@@ -143,6 +157,10 @@
       <screen x="0" y="23" width="1366" height="745" />
     </state>
     <state x="191" y="34" key="SettingsEditor/0.23.1366.745@0.23.1366.745" timestamp="1603173629853" />
+    <state x="100" y="123" width="1166" height="545" key="VCS.FileHistoryDialog" timestamp="1603197933808">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="100" y="123" width="1166" height="545" key="VCS.FileHistoryDialog/0.23.1366.745@0.23.1366.745" timestamp="1603197933808" />
     <state x="282" y="134" key="Vcs.Push.Dialog.v2" timestamp="1603176478039">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
