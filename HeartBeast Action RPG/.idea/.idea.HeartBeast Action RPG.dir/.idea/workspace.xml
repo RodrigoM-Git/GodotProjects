@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:project" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bc9dcf0-4309-4fa2-bad6-3e8227264b9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeartBeast Action RPG.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeartBeast Action RPG.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeartBeast Action RPG.dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeartBeast Action RPG.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeartBeast Action RPG.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HeartBeast Action RPG.dir/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mono/assemblies/Release/GodotSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mono/assemblies/Release/GodotSharp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mono/assemblies/Release/GodotSharp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mono/assemblies/Release/GodotSharpEditor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mono/assemblies/Release/GodotSharpEditor.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mono/assemblies/Release/GodotSharpEditor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mono/assemblies/Release/api_hash_cache.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mono/metadata/ide_messaging_meta.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBeast Action RPG.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartBeast Action RPG.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Player/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/Player.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/World.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/World.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.godot" beforeDir="false" afterPath="$PROJECT_DIR$/project.godot" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Player/Player.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Player/Player.gd" />
+        <option value="$PROJECT_DIR$/Player/Player.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j7esASMOAOdl0u3mIv3OcJ5PJ5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bc9dcf0-4309-4fa2-bad6-3e8227264b9c" name="Default Changelist" comment="" />
+      <created>1603159770554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603159770554</updated>
+      <workItem from="1603159793247" duration="101000" />
+      <workItem from="1603159940515" duration="13000" />
+      <workItem from="1603160005116" duration="341000" />
+      <workItem from="1603171098607" duration="146000" />
+      <workItem from="1603171334587" duration="1309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="144" key="IDE.errors.dialog" timestamp="1603171355788">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="270" y="144" key="IDE.errors.dialog/0.23.1366.745@0.23.1366.745" timestamp="1603171355788" />
+    <state x="192" y="34" key="SettingsEditor" timestamp="1603173041874">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="192" y="34" key="SettingsEditor/0.23.1366.745@0.23.1366.745" timestamp="1603173041874" />
+  </component>
+</project>
