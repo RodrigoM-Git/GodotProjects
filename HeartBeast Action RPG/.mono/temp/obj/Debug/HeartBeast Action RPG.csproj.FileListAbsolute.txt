@@ -1,0 +1,8 @@
+/Users/rodrigorojas/Documents/Game Projects/GodotProjects/HeartBeast Action RPG/.mono/temp/bin/Debug/HeartBeast Action RPG.dll
+/Users/rodrigorojas/Documents/Game Projects/GodotProjects/HeartBeast Action RPG/.mono/temp/bin/Debug/HeartBeast Action RPG.pdb
+/Users/rodrigorojas/Documents/Game Projects/GodotProjects/HeartBeast Action RPG/.mono/temp/obj/Debug/HeartBeast Action RPG.csprojAssemblyReference.cache
+/Users/rodrigorojas/Documents/Game Projects/GodotProjects/HeartBeast Action RPG/.mono/temp/obj/Debug/HeartBeast Action RPG.AssemblyInfoInputs.cache
+/Users/rodrigorojas/Documents/Game Projects/GodotProjects/HeartBeast Action RPG/.mono/temp/obj/Debug/HeartBeast Action RPG.AssemblyInfo.cs
+/Users/rodrigorojas/Documents/Game Projects/GodotProjects/HeartBeast Action RPG/.mono/temp/obj/Debug/HeartBeast Action RPG.csproj.CoreCompileInputs.cache
+/Users/rodrigorojas/Documents/Game Projects/GodotProjects/HeartBeast Action RPG/.mono/temp/obj/Debug/HeartBeast Action RPG.dll
+/Users/rodrigorojas/Documents/Game Projects/GodotProjects/HeartBeast Action RPG/.mono/temp/obj/Debug/HeartBeast Action RPG.pdb

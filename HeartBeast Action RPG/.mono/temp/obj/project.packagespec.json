@@ -1,0 +1,32 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/rodrigorojas/Documents/Game Projects/GodotProjects/HeartBeast Action RPG/HeartBeast Action RPG.csproj",
+    "projectName": "HeartBeast Action RPG",
+    "projectPath": "/Users/rodrigorojas/Documents/Game Projects/GodotProjects/HeartBeast Action RPG/HeartBeast Action RPG.csproj",
+    "outputPath": "/Users/rodrigorojas/Documents/Game Projects/GodotProjects/HeartBeast Action RPG/.mono/temp/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "net472"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "net472": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net472": {}
+  }
+}
