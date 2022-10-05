@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rmrojas/Documents/GodotProjects/Sprite Script/Sprite Script.csproj": {}
+  },
+  "projects": {
+    "/Users/rmrojas/Documents/GodotProjects/Sprite Script/Sprite Script.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rmrojas/Documents/GodotProjects/Sprite Script/Sprite Script.csproj",
+        "projectName": "Sprite Script",
+        "projectPath": "/Users/rmrojas/Documents/GodotProjects/Sprite Script/Sprite Script.csproj",
+        "packagesPath": "/Users/rmrojas/.nuget/packages/",
+        "outputPath": "/Users/rmrojas/Documents/GodotProjects/Sprite Script/.mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rmrojas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "/Users/rmrojas/Library/Caches/VisualStudio/17.0/MSBuild/2479_3/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

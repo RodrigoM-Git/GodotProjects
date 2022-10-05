@@ -1,0 +1,8 @@
+/Users/rmrojas/Documents/GodotProjects/Sprite Script/.mono/temp/bin/Debug/Sprite Script.dll
+/Users/rmrojas/Documents/GodotProjects/Sprite Script/.mono/temp/bin/Debug/Sprite Script.pdb
+/Users/rmrojas/Documents/GodotProjects/Sprite Script/.mono/temp/obj/Debug/Sprite Script.csproj.AssemblyReference.cache
+/Users/rmrojas/Documents/GodotProjects/Sprite Script/.mono/temp/obj/Debug/Sprite Script.AssemblyInfoInputs.cache
+/Users/rmrojas/Documents/GodotProjects/Sprite Script/.mono/temp/obj/Debug/Sprite Script.AssemblyInfo.cs
+/Users/rmrojas/Documents/GodotProjects/Sprite Script/.mono/temp/obj/Debug/Sprite Script.csproj.CoreCompileInputs.cache
+/Users/rmrojas/Documents/GodotProjects/Sprite Script/.mono/temp/obj/Debug/Sprite Script.dll
+/Users/rmrojas/Documents/GodotProjects/Sprite Script/.mono/temp/obj/Debug/Sprite Script.pdb
